@@ -7,14 +7,7 @@
 <br/>
 <br/>
 
-Aspiring Machine Learning Engineer  
-with 1 Year of experience in  
-developing and deploying end-to-end  
-ML solutions. Eager to contribute  
-technical expertise in personalization,  
-computer vision, and natural language  
-processing (NLP) to build scalable and  
-impactful systems.
+Aspiring Machine Learning Engineer with 1 Year of experience in developing and deploying end-to-end ML solutions. Eager to contribute technical expertise in personalization, computer vision, and natural language processing (NLP) to build scalable and impactful systems.
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
