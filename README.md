@@ -46,8 +46,11 @@ I love building scalable systems, experimenting with deep learning architectures
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
     
-![](https://github-readme-stats.vercel.app/api?username=arkaghosh566 &theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arkaghosh566 &theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaghosh566 &theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arkaghosh)](https://git.io/streak-stats)
+
+![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaghosh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaghosh&layout=donut-vertical&&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/arkaghosh/github-readme-stats)
+
 </div>
 <hr/>
