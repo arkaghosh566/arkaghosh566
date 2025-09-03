@@ -46,7 +46,7 @@ I love building scalable systems, experimenting with deep learning architectures
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arkaghosh&count_private=true&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arkaghosh566&theme=prussian&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkaghosh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
