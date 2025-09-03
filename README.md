@@ -24,14 +24,7 @@ I love building scalable systems, experimenting with deep learning architectures
 
 ## 🌐 Connect With Me  
 
-<p align="left">
-<a href="https://www.linkedin.com/in/arka-ghosh-aaab5a270/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arka Ghosh" height="30" width="40" />
-</a>
-<a href="mailto:your.email@example.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arka-ghosh-aaab5a270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkaghosh566@gmail.com) 
 
 ---
 
